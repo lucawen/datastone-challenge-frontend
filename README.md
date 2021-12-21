@@ -43,3 +43,8 @@ Para acessar o `/admin/` do django, já existe um usuário:
 
 
 Já existe uma votação criada.
+
+
+### Participe
+
+Caso queira participar, faça um 'fork' do projeto, realize as alterações e faza um PR quando for finalizado.
