@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "challenge-yacows"
+version = "0.1.0"
+description = ""
+authors = ["Luca <lucalacerda1@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = "^3.2.6"
+djangorestframework = "^3.12.4"
+drf-writable-nested = "^0.6.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
